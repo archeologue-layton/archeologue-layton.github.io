@@ -1,4 +1,4 @@
-__ERREUR__: Utilisateur _`Herschel`_, la suppression de votre compte a échoué. Par conséquent, nous avons gardé une copie de tous vos documents.`
+__ERREUR__: Utilisateur _`Herschel`_, la suppression de votre compte a échoué. Par conséquent, nous avons gardé une copie de tous vos documents.
 
 ## Au revoir, mes amis
 Je me vois contraint de cesser toute activité sur ce blog pour des raisons de sécurité personnelle. J'ai malheureusement dû supprimer tous les comptes de mon site de documents afin de m'assurer que personne n'y aurait plus jamais accès. Je suis désolé du dérangement. Merci pour votre soutien durant ces nombres années, j'espère que nous nous reverrons, amis archéologues!
