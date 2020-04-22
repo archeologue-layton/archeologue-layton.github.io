@@ -9,4 +9,4 @@ Cela fait plusieurs mois que je travaille sur un site fraîchement découvert au
 ## Bienvenue sur mon blog!
 Salut c'est moi, l'Archéologue Herschel Layton! Vous trouverez sur ce blog mes dernières trouvailles.
 
-En attendant, connectez-vous sur [mon site de documents](lockee.fr) pour avoir accès à mes dernières recherches.
+En attendant, connectez-vous sur [mon site de documents](https://lockee.fr/o/MQIIxOJp) pour avoir accès à mes dernières recherches.
