@@ -2,3 +2,5 @@ theme: jekyll-theme-time-machine
 title: Le blog de l'Archéologue Layton
 description: Toutes les nouvelles découvertes de l'Archéologue Layton
 show_downloads: false
+github:
+  is_project_page: false
